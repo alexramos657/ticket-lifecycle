@@ -46,55 +46,63 @@ I can now see all the open tickets I created in the "Tickets" tab:
 <br />
 When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/zhs6tgV.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 I can change the priority level on appropriate tickets by clicking the "Priority" section and can add a note for the change made:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/VdbRBwP.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 To assign a ticket, click on "Unassigned" next to the "Assigned To" section and select an agent to assign this ticket to:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/ZuFT54n.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 I can also change the tickets SLA (Service Level Aggrement) of the ticket in the "SLA Plan" section:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/5PuoT6G.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Another option I have is to change the tickets department in the "Department" section:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/CiTYXSf.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Looking further down I can see a thread of all of the changes made to the ticket:
+Now I'll log into the agent I assigned the ticket to:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/a6ee89F.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<br />
+<br />
+<img src="https://i.imgur.com/YHvPpkn.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<br />
+<br />
+After clicking on the ticket I can see a thread of all of the changes made to the ticket:
+</p>
+<img src="https://i.imgur.com/qFhb3q7.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 At the bottom I can post replies communicating updates of the ticket:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/YWJjvCA.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 If I go back to see all the open tickets, I can see the changes I made to the ticket:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/sPFuZ9q.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 To resolve a ticket, I can select "Resolved" from the "Ticket Status" menu at the bottom of the ticket:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/yJgqE0H.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 The resolved ticket will disappear from the open tickets tab and appear in the closed tickets tab:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/ho8z7It.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/jfknk2K.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 
