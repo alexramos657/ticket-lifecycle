@@ -34,14 +34,14 @@ I will open three new tickets and fill out the users information along with the 
 <img src="https://i.imgur.com/6bHGGYy.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Next, I will log in as an agent (worker) we created: 
+Next, I will log into the admin account: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/IhVKvfi.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 I can now see all the open tickets I created in the "Tickets" tab: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/yWrEDJs.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:  
