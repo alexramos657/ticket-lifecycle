@@ -20,18 +20,18 @@ This is a continuation of the [osTicket: Post Installation Configuration](https:
 
 First, I will navigate to the end user site of osTicket to be able to create a new ticket:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/JclLfob.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 I will open three new tickets and fill out the users information along with the technical issues: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/FfeC4ln.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/fQtvMQE.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/6bHGGYy.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Next, I will log in as an agent (worker) we created: 
